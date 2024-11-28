@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz Bom em Inglês?',
-    'Oi em ingles é Good! (ɡo͝od)'
+    'Como se diz dança em Inglês?',
+    'Dança em ingles é Dance! (dance)'
 )
